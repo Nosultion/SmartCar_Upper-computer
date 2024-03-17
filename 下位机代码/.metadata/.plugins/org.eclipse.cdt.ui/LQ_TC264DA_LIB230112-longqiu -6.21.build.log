@@ -1,0 +1,8 @@
+Aurix Flasher 2.5.3.0, built on 2022/3/17 21:12:47
+Connected to device... [TRICORE] DAS JDS TriBoard TCXXX V3.5
+::Loading HEX file .......... (Pass)
+::Erasing Flash memory .......... (Pass)
+::Programming Flash memory .......... (Pass)
+Overall time: 1213 ms
+AurixFlasher Exit Status: Pass
+Flashing was successfull

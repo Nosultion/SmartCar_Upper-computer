@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1690604028745_1" label="ActiveProject" name="ActiveProject">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/LQ_TC264DA_LIB230112-longqiu -6.21" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1690603990327_0" label="Window Working Set" name="Aggregate for window 1690603990326">
+<workingSet IMemento.internal.id="ActiveProject"/>
+</workingSet>
+</workingSetManager>
